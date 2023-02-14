@@ -3,7 +3,7 @@
 .sidenav {
   height: 100%;
   /* Full-height: remove this if you want "auto" height */
-  width: 150px;
+  width: 160px;
   /* Set the width of the sidebar */
   position: fixed;
   /* Fixed Sidebar (stay in place on scroll) */
@@ -32,12 +32,12 @@ li{
 }
 
 .Legacy {
-  padding-left: 155px;
+  padding-left: 165px;
   color: rgb(2, 116, 131);
 }
 
 .Amendment {
-  padding-left: 155px;
+  padding-left: 165px;
   color: rgb(2, 116, 131);
 }
 
@@ -57,10 +57,11 @@ h2 {
   line-height: 75%;
   font-size: 20px;
 }
-
-a {
+.sidenav a{
   color: #A6D0E6;
   text-decoration: none;
+}
+a {
 
 }
 
