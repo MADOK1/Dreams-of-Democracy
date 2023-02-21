@@ -22,10 +22,12 @@
   color: #A6D0E6;
   font-size: small;
 }
-li{
+
+li {
   font-size: 13.3334;
   color: black;
 }
+
 .Header {
   top: 0;
   color: #006699;
@@ -35,11 +37,12 @@ li{
   padding-left: 165px;
   color: rgb(2, 116, 131);
 }
-
+/*
 .Amendment {
   padding-left: 165px;
   color: rgb(2, 116, 131);
 }
+*/
 
 * {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -57,15 +60,27 @@ h2 {
   line-height: 75%;
   font-size: 20px;
 }
-.sidenav a{
+
+.sidenav a {
   color: #A6D0E6;
   text-decoration: none;
 }
-a {
 
-}
+a {}
 
 p {
   font-size: 13.3334;
   color: black;
+<<<<<<< Updated upstream
 }/**/
+=======
+}
+
+.container {
+  padding-left: 165px;
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 50px;
+}
+>>>>>>> Stashed changes
