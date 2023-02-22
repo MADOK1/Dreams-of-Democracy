@@ -37,6 +37,7 @@ li {
   padding-left: 165px;
   color: rgb(2, 116, 131);
 }
+
 /*
 .Amendment {
   padding-left: 165px;
@@ -66,14 +67,13 @@ h2 {
   text-decoration: none;
 }
 
-a {}
+.Amendment {
+  /*adding-right: 10%;*/
+}
 
 p {
   font-size: 13.3334;
   color: black;
-<<<<<<< Updated upstream
-}/**/
-=======
 }
 
 .container {
@@ -83,4 +83,3 @@ p {
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 50px;
 }
->>>>>>> Stashed changes
