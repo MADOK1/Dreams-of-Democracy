@@ -31,10 +31,12 @@ li {
 .Header {
   top: 0;
   color: #006699;
+  
 }
 
 .Legacy {
-  padding-left: 165px;
+  padding-left: 200px;
+  padding-right: 100px;
   color: rgb(2, 116, 131);
 }
 
@@ -80,7 +82,7 @@ p {
 .container {
   display:grid;
   align-items: center;
-  padding-left: 165px;
+  padding-left: 200px;
   grid-template-columns: 1fr 1fr;
   column-gap: 50px;
 }
